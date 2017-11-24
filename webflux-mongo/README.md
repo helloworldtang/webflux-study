@@ -52,8 +52,12 @@ net stop MongoDB
 
 
 ## Mongo Plugin
-
 小技巧：IDEA 有 MongoDB 的插件，可以方便的查看 MongoDB 里面的数据，插件名字：Mongo Plugin
+![mongo-plugin](https://user-images.githubusercontent.com/13701989/33209794-93c34006-d152-11e7-8565-87b2989c6eb9.png)
+
+![settings-mongo-server](https://user-images.githubusercontent.com/13701989/33209798-990f3c40-d152-11e7-9d9a-9427d6e8fff3.png)
+
+![mongo-explorer](https://user-images.githubusercontent.com/13701989/33209806-9cccea8a-d152-11e7-8c0f-38ac7761c12c.png)
 
 
 
