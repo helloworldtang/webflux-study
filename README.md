@@ -29,7 +29,7 @@ $ docker run -d --name any-mongo -p 27017:27017 mongo
 
 DEA 有 MongoDB 的插件，可以方便的查看 MongoDB 里面的数据，插件名字：Mongo Plugin   
 
-![Mongo Plugin Server](http://images2017.cnblogs.com/blog/280044/201712/280044-20171222111839740-1709953968.png)
+![Mongo Plugin-Server](https://user-images.githubusercontent.com/13701989/34284113-a7ab638c-e70a-11e7-8284-3dfaf2594b16.png)
 
 
 
